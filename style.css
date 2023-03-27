@@ -1,0 +1,42 @@
+.nome, .sobremim{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+   background-color: aquamarine;
+}
+.idade, .cidade{
+   color:darkblue;
+   font-weight: 900;
+}
+.calmo{
+   font-size: 20px;
+}
+.facilidade{
+   font-size: 19px;
+}
+.comprometimento{
+   font-size: 18px;
+}
+.competividade{
+   font-size: 17px;
+}
+#ft {
+   float: left;
+   padding: 2px;
+   background-color:black;
+
+
+}
+.div2 {
+   height: 210px;
+}
+.nome{
+   text-align: center;
+}
+div:nth-of-type(1) > ul{
+   list-style: none
+}
+
+.div3 ul li:nth-child(odd) {
+   background-color:white;
+}
